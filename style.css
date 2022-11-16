@@ -1,0 +1,37 @@
+.colera{
+    color: grey;
+    font-size: 25px;
+  }
+  .titulo{
+    color: #836FFF;
+    font-size: 70px;
+  }
+  .titulo2{
+    color: #FAFAD2;
+    font-size: 25px;
+  }
+    *
+{
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  background-color: black;
+}
+.critico{
+    color: red;
+    font-size: 25px;
+    display: inline-block;
+}
+.curto{
+    font-size: 25px;
+    color: green;
+    display: inline-block;
+}
+.doencas{
+    color: #7FFFD4;
+    font-size: 25px;
+    padding: 20px;
+}
+.img1{
+  padding: 5px;
+}
